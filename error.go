@@ -9,7 +9,7 @@ import (
 )
 
 // Sentinel key used to identify crex errors in slog output.
-const crexErrorMarker = "!github.com/cruciblehq/go-crex.Error"
+const crexErrorMarker = "!github.com/cruciblehq/crex.Error"
 
 // Represents an error with rich context.
 //
